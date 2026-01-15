@@ -22,7 +22,11 @@ This project forecasts future sales using ARIMA and displays results on a web in
    python app.py
 
 4. Open browser  
-   https://time-series-forecasting-5710.onrender.com/
+   http://127.0.0.1:5000/
 
 ## Output
 Interactive graph showing historical sales and future forecast.
+
+ You can see my output by this Link :
+ https://time-series-forecasting-5710.onrender.com/
+
